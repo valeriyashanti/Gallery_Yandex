@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/item_1"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="@string/itemAbout"
+        app:showAsAction="always" />
+
+
+    <item
+        android:id="@+id/item_2"
+        android:checkable="false"
+        android:enabled="true"
+        android:checked="true"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:title="@string/itemAuthor"
+        app:showAsAction="ifRoom" />
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GalleryYandex</string>
+    <string name="about">Добро пожаловать в приложение Галлерея. Здесь расположилось множество  «Лайв-стайл» фотографий. Приложение создано для того, чтобы дарить вдохновение.  </string>
+    <string name="author">Привет, меня зовут Валерия, я студент и совсем недавно ступила на путь изучения Java</string>
+    <string name="itemAbout">О программе</string>
+    <string name="itemAuthor">Об авторе</string>
+    <string name="menuAbout">О программе</string>
+</resources>
